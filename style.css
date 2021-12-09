@@ -5,6 +5,7 @@ html, body {
 /*   background:#f5f6f9; */
   background: #F5F9FF;
   text-align: center;
+  height: 100%;
 }
 canvas {
   margin: 0 auto;
@@ -164,6 +165,7 @@ footer {
   bottom: 0;
   width: 100%;
   height: 60px;
+  position:absolute;
 }
 
 footer > p {
