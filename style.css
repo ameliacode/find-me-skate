@@ -12,6 +12,10 @@ canvas {
   display: block;
 }
 
+body {
+  margin-top: 25px;
+}
+
 h1 {
   font-family: 'Kaushan Script', cursive;
   text-align: center;
