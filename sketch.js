@@ -14,7 +14,6 @@ let lengthButton;
 let widthInput;
 let widthButton;
 let recommendBtn;
-let resultBool;
 let _footLength;
 let _footWidth; //circumference
 
