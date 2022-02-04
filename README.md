@@ -1,6 +1,9 @@
-## Find me a Skate!
+## ⛸Find me a Skate⛸
 
-|![](imgs/1.jpg)|![](imgs/2.jpg)|
-|---|---|
-|![](imgs/3.jpg)|![](imgs/4.jpg)|
+<p align = "center">
+  <img src = "imgs/1.jpg" width = 750/>
+</p>
+Final project on GE class, [Introduction to AI platform](https://github.com/ameliacode/Intro2AIPlatform) <br>
+Down below is a brief introduction about my project
 
+---
